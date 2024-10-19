@@ -1,5 +1,5 @@
 version: 2
-updates:
+updates:app/src/main/java/com/termux/app/TermuxApplication.java
 - package-ecosystem: github-actions
   directory: /
   schedule:
